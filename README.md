@@ -19,7 +19,7 @@ Example equipment:
 | Where     | What            | Base Damage | Damage Modifier |
 |-----------|-----------------|-------------|-----------------|
 | right hand|  flashy sword of danger | 10  | 1.0             |
-| right hand|  excalibur              | 20  | 1.5             |
+|( right hand|  excalibur              | 20  | 1.5           )|
 | left hand |  round shield           |  0  | 1.4             |
 | feet      |  ten league boots       |  0  | 0.1             |
 | head      |  helmet of swiftness    |  0  | 1.2             |
